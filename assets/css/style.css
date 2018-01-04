@@ -1,0 +1,22 @@
+.nav-wrapper{
+	background-color:#26A69A;
+}
+
+.btn{
+	text-transform: none;
+	width: 100%;
+}
+
+.stats{
+	text-transform: lowercase;
+}
+
+td{
+	width: 33%;
+	text-align: center;
+}
+
+
+th{
+	text-align: center;
+}
