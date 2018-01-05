@@ -3,7 +3,7 @@ This is a Hearthstone Arena deck builder application in your browser.  Use this 
 
 ### Instructions
 
-1. Click on the designated link:    
+1. Click on the designated link:    https://wholetpaulin.github.io/Arena-Deckbuilder/
 
 2. Select the class you would like to play. (Top left on navbar)
 
